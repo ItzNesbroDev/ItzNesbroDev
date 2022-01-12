@@ -39,4 +39,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Free Fire Highlights ❤️🇮🇳 | Malayalam](https://www.youtube.com/watch?v=g4Xio85sX8g)
+- [Nether Portal | #2 | Mincraft Malaylam](https://www.youtube.com/watch?v=zsR3LxWDFMw)
+- [Mincraft New Lets Play #1 | Malayalam | #ItzNesbro](https://www.youtube.com/watch?v=Y8PoPLkmdLc)
+- [Play Real Mincraft Java On Android| Malayalam | Pojav Luncher #PojavLuncher](https://www.youtube.com/watch?v=dTjiJOhfsJM)
+- [Watch me stream Among Us on Omlet Arcade!](https://www.youtube.com/watch?v=0KE_4wtkHXk)
 <!-- YOUTUBE:END -->
