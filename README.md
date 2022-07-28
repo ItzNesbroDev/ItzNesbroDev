@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Nvimcord](https://github.com/Nvimcord)<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with reactjs<br>🌱 I’m currently learning Typescript <br>💬 Ask me about Reactjs Nextjs Js Html Css<br>⚡ Fun fact Iam Still Learning JavaScript 😂
+🔭 I’m currently working on [NvCord](https://github.com/NvCord)<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with reactjs<br>🌱 I’m currently learning Typescript <br>💬 Ask me about Reactjs Nextjs Js Html Css<br>⚡ Fun fact Iam Still Learning JavaScript 😂
 
 
 ## 🌐 Socials:
