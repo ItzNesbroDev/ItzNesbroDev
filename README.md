@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm ItzNesbro</h1>
-<h3 align="center">Iam, A Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itznesbrodev&label=Profile%20views&color=0e75b6&style=flat" alt="itznesbrodev" /> </p>
 
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itznesbro" target="blank"><img src="https://img.shields.io/twitter/follow/itznesbro?logo=twitter&style=for-the-badge" alt="itznesbro" /></a> </p>
 
-- 🔭 I’m currently working on [My Official Website](https://itznesbro.vercel.app)
+- 🔭 I’m currently working on [Tgoal](https://github.com/Tgoal/Tgoal)
 
 - 🌱 I’m currently learning **C, Typescript**
 
@@ -15,13 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://itznesbro.vercel.app/works](https://itznesbro.vercel.app/works)
 
-- 📝 I write articles on [https://itznesbrodev.medium.com](https://itznesbrodev.medium.com)
-
 - 💬 Ask me about **React, Html, JavaScript**
 
-- 📫 How to reach me **nesbeeryt@gmail.com**
-
-- ⚡ Fun fact **I'm Still Learning JavaScript 😂😂**
+- 📫 How to reach me **itznesbro@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
