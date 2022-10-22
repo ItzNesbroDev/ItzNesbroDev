@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itznesbrodev" alt="itznesbrodev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itznesbro" target="blank"><img src="https://img.shields.io/twitter/follow/itznesbro?logo=twitter&style=for-the-badge" alt="itznesbro" /></a> </p>
-
 - 🔭 I’m currently working on [Tgoal](https://github.com/Tgoal/Tgoal)
 
 - 🌱 I’m currently learning **C, Typescript**
