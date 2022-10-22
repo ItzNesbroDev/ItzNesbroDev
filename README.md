@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itznesbrodev" alt="itznesbrodev" /></a> </p>
 
-- 🔭 I’m currently working on [Tgoal](https://github.com/Tgoal/Tgoal)
+- 🔭 I’m currently working on [my-website](https://itznesbro.vercel.app)
 
 - 🌱 I’m currently learning **C, Typescript**
 
