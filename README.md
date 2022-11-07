@@ -6,13 +6,7 @@
 
 - 🔭 I’m currently working on [my-website](https://itznesbro.vercel.app)
 
-- 🌱 I’m currently learning **C, Typescript**
-
-- 🤝 I’m looking for help with [Markdown Editor](https://github.com/ItzNesbroDev/markdown-editor)
-
-- 👨‍💻 All of my projects are available at [https://itznesbro.vercel.app/works](https://itznesbro.vercel.app/works)
-
-- 💬 Ask me about **React, Html, JavaScript**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **itznesbro@proton.me**
 
