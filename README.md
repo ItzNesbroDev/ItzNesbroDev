@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ItzNesbroDev&style=for-the-badge)
 <a href="itznesbro.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
