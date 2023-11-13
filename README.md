@@ -26,13 +26,10 @@
 # 🖌️ Informations
 
 ### 📊 Most Used Languages
-![](https://raw.githubusercontent.com/ItzNesbroDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ItzNesbroDev/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Top Langs](https://github-readme-stats-ten-rho-39.vercel.app/api/top-langs/?username=ItzNesbroDev&layout=donut&theme=tokyonight)
 
 ### 💫 GitHub Status
-![](https://raw.githubusercontent.com/ItzNesbroDev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ItzNesbroDev/github-stats/master/generated/overview.svg#gh-light-mode-only)
----
+![](https://github-readme-stats-ten-rho-39.vercel.app/api?username=ItzNesbroDev&show_icons=true&theme=tokyonight)
 
 # 🧠 Skills 
 ### 👩‍💻 Languages
