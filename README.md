@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nesbeer (AKA: ItzNesbro)</h1>
-<h3 align="center">I'm A Frontend Developer, YouTuber And Discord Developer</h3>
+<h3 align="center">I'm A Frontend Developer, YouTuber And Discord Bot Developer</h3>
 
 - 🔭 I’m currently working on [Netflyer](https://netflyer.vercel.app)
 
